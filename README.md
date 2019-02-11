@@ -1,2 +1,3 @@
 # hello-world
 In the beginning...
+This is my first GitHub repository. I'm learning python which will be my fist programming language.
